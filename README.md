@@ -58,7 +58,7 @@ The project generates a matrix of output images (3 rows × 4 columns) showing se
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/omishanagaraju/Using-the-Expectation-Maximization-Algorithm/
+git clone https://github.com/omishanagaraju/Using-the-Expectation-Maximization-Algorithm/tree/master
 cd Using-the-Expectation-Maximization-Algorithm
 ```
 
